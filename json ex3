@@ -1,0 +1,21 @@
+{
+    "_comment":"EX3 請用 JSON 表示一份班級通訊錄，內容包含三位學生。每位學生需有以下資訊：姓名、電話、電子信箱。",
+    "class" : "三年一班",
+    "students" : [
+        {
+            "name" : "小明",
+            "phone" : "0912345678",
+            "email" : "123@example.com"
+        },
+        {
+            "name" : "小王",
+            "phone" : "0923456789",
+            "email" : "234@example.com"
+        },
+        {
+            "name" : "小美",
+            "phone" : "0934567890",
+            "email" : "345@example.com"
+        }
+    ]
+}
