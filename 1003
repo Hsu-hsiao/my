@@ -1,0 +1,19 @@
+# 輸入比賽組數
+M = int(input())
+
+for _ in range(M):
+    A_str, B_str, K = input().split()
+    K = int(K)
+
+    # 轉換成大數字處理
+    A = int(A_str)
+    B = int(B_str)
+
+    # 判斷勝負
+    if A == B:
+        print("DRAW")
+    elif (K == 1 and A > B) or (K == -1 and A < B):
+        print("A")
+    else:
+        print("B")
+    
