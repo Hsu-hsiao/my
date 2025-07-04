@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+header {
+            background-color: #ffcc00;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+.search{
+            width: 200px;
+            vertical-align: middle;
+            white-space: nowrap;
+            position: relative;
+            padding-right: 100px;
+        }
+        
+.search input#search{
+        padding: 8px 16px;
+        padding-left: 45px; /* 給圖示空間 */
+        border-radius: 999px;
+        border: none;
+        outline: none;
+        font-size: 14px;
+        width: 250px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  } 
+
+.search .icon {
+  position: absolute;
+  top: 50%;
+  left: 16px;
+  transform: translateY(-50%);
+  z-index: 1;
+  color: #04090e;
+  font-size: 16px;
+  pointer-events: none; 
+  }
+
+h1  {
+        font-family: 'Dela Gothic One', cursive;
+        color: #d9534f;
+        font-size: 32px;
+        font-weight: 100; /*字體粗細*/
+        font-style: normal;
+    }
+
+h2  {
+        display: flex;   
+        justify-content: center; 
+        align-items: center;
+        padding: 20px;
+        font-family: 'Dela Gothic One', cursive;
+        color: #d9534f;
+        font-size: 32px;
+        font-weight: 100;
+        font-style: normal;
+    }
+
+.time-filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px 20px;
+  background-color: #fff;
+  }
+  
+/*紅色按鈕版*/
+.time-button {
+  padding: 10px 24px;
+  border-radius: 999px; /* 圓形按鈕 */
+  border: 0px solid transparent;
+  background-color: #d9534f;
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 16px;
+  font-weight: 50;
+  font-style: lighter;
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.2s; /* 平滑過渡效果 */
+  }
+.time-button:hover {
+  opacity: 0.7;/* 鼠標懸停時的透明度變化 */
+}
+
+.time-button.active {
+  background-color: #ffcc00;
+  color: rgb(3, 8, 68);
+  font-weight: normal;
+  border-color: #e0aa00;
+}
+
+/*黃色按鈕版
+.time-button {
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: #f6d55c;
+  color: #444;
+  border: none;
+  font-weight: lighter;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.time-button.active {
+  background-color: #f28e2b;
+  color: white;
+}*/
+
+.no-result {
+  text-align: center;
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 40px;
+  color: #666;
+  margin-top: 40px;
+}
+
+.store-list {
+  margin-top: 20px;
+}
+
+.store-entry {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.store-entry a {
+  font-size: 20px;
+  color: #c0392b;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.store-entry a:hover {
+  text-decoration: underline;
+}
+
+.store-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #fffaf2;
+  border: 2px solid #f6d55c;
+  border-radius: 16px;
+  padding: 16px;
+  margin: 20px auto;
+  max-width: 700px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.store-info h3 {
+  margin: 0 0 8px;
+  font-size: 22px;
+  color: #c0392b;
+}
+
+.store-info .address {
+  margin: 0 0 12px;
+  font-size: 16px;
+  color: #555;
+}
+
+.store-info p.time {
+  margin: 4px 0;
+  color: #444;
+  font-size: 15px;
+}
+
+.map iframe {
+  border-radius: 8px;
+}
+
+
+
+
+
+    
+    
