@@ -29,18 +29,26 @@
     </div>
     <div id="store-list" class="store-list"></div>
     </div>
-    <script>
+   <script>
 let stores = [];
 
-fetch('stores.json')
-  .then(response => response.json())
-  .then(data => {
-    stores = data;
-    renderStores(stores);
+// 判斷店家是否符合指定時段
+function isOpenInSelectedRange(store, selectedTime) {
+  const [start, end] = selectedTime.split("-").map(t => parseFloat(t));
+  const open = parseFloat(store.open.replace(":", "."));
+  const close = parseFloat(store.close.replace(":", "."));
 
-    
-function renderStores(filteredStores) 
-{
+  const storeCross = close < open;
+  const rangeCross = end < start;
+
+  if (!storeCross && !rangeCross) return open < end && close > start;
+  if (storeCross && !rangeCross) return open < end || close > start;
+  if (!storeCross && rangeCross) return (open < 24 && close > start) || open < end;
+  return true;
+}
+
+// 渲染卡片
+function renderStores(filteredStores) {
   const storeList = document.getElementById('store-list');
 
   if (filteredStores.length === 0) {
@@ -48,50 +56,70 @@ function renderStores(filteredStores)
     return;
   }
 
-  storeList.innerHTML = filteredStores.map(store => `
-    <div class="store-card">     
-      <div class="store-info">
-        <h3>${store.name}</h3>
-        <p class="address">📍 ${store.address}</p>
-        <p class="time">⏰ 營業時間：${store.open === "00:00" && store.close === "24:00"
-        ? "24 小時營業"
-        : `${store.open}–${store.close}`}</p>
+  storeList.innerHTML = filteredStores.map(store => {
+    const now = new Date();
+    const nowDecimal = now.getHours() + now.getMinutes() / 60;
+    const openTime = parseFloat(store.open.replace(":", "."));
+    const closeTime = parseFloat(store.close.replace(":", "."));
+    const isCrossDay = closeTime < openTime;
+    const today = now.getDay();
+    const isClosedToday = store.closedDays?.includes(today);
+    const isOpen = isCrossDay
+      ? nowDecimal >= openTime || nowDecimal < closeTime
+      : nowDecimal >= openTime && nowDecimal < closeTime;
+    const statusText = isClosedToday ? "❌ 今日公休" : isOpen ? "✅ 營業中" : "❌ 休息中";
 
-        <div class="map">${store.mapEmbed}</div>
+    return `
+      <div class="store-card">     
+        <div class="store-info">
+          <h3>${store.name}</h3>
+          <p class="address">📍 ${store.address}</p>
+          <p class="time">
+            ⏰ 營業時間：${
+              store.open === "00:00" && store.close === "24:00"
+                ? "24 小時營業"
+                : `${store.open}–${store.close}`
+            }
+            ${store.closedDays && store.closedDays.length > 0
+              ? `（每週 ${store.closedDays.map(d => "日一二三四五六"[d]).join("、")} 公休）`
+              : ""
+            }
+              ${store.note ? `<br>📌 備註：${store.note}` : ""}<br>${statusText}
+          </p>
+          <div class="map">${store.mapEmbed}</div>
+        </div>
       </div>
-    </div>
-  `).join('');
+    `;
+  }).join('');
 }
 
-// 預設顯示全部
-renderStores(stores);
+// 資料載入與互動邏輯
+fetch('stores.json')
+  .then(response => response.json())
+  .then(data => {
+    stores = data;
+    renderStores(stores); // 預設顯示全部
 
-// 按鈕互動
-const timeButtons = document.querySelectorAll('.time-button');
+    const timeButtons = document.querySelectorAll('.time-button');
+    timeButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        timeButtons.forEach(btn => btn.classList.remove('active'));
+        button.classList.add('active');
 
-timeButtons.forEach(button => {
-  button.addEventListener('click', () => {
-    // 切換 active 樣式
-    timeButtons.forEach(btn => btn.classList.remove('active'));
-    button.classList.add('active');
+        const selectedTime = button.dataset.time;
 
-    const selectedTime = button.dataset.time;
+        const filtered = stores.filter(store => {
+          if (selectedTime === "All") return true;
+          if (selectedTime === "24hr") return store.open === "00:00" && store.close === "24:00";
+          if (!store.open || !store.close) return false;
 
-    const filtered =
-      selectedTime === "All"
-        ? stores
-        : stores.filter(store => {
-            const openTime = parseFloat(store.open.replace(":", "."));
-            const closeTime = parseFloat(store.close.replace(":", "."));
-            const [start, end] = selectedTime.split("-").map(str => parseFloat(str));
-            return openTime < end && closeTime > start;
-          });
+          return isOpenInSelectedRange(store, selectedTime);
+        });
 
-    renderStores(filtered); // 👉 呼叫更新畫面
+        renderStores(filtered);
+      });
+    });
   });
-});
-
-})
 </script>
 
 

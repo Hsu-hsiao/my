@@ -4,6 +4,7 @@
     "address": "台南市中西區中正路123號",
     "open": "11:30",
     "close": "22:00",
+    "closedDays": [1],
     "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.8733357425253!2d120.19535809999999!3d22.991684799999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e767ac5ef0cbd%3A0x5590c425e1fbb6ab!2z6Zi_5qOg54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1751618815676!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
   },
   {
@@ -18,6 +19,138 @@
     "address": "台南市中西區海安路一段63號",
     "open": "05:00",
     "close": "10:00",
+    "closedDays": [1, 2, 3],
     "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.9403762467177!2d120.19484779999999!3d22.9892199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76540c0c22b9%3A0xa094a0c002659c3b!2z5YWt5Y2D5rOT5L2Q5Zyf55Si54mb6IKJ!5e0!3m2!1szh-TW!2stw!4v1751618781636!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "name": "文章牛肉湯 安平總店",
+    "address": "台南市安平區安平路300號",
+    "open": "10:30",
+    "close": "02:00",
+    "closedDays": [4],
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14690.751943418789!2d120.16778755492894!3d22.998498319278387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761abb62710d%3A0xc31bcd84dd49574a!2z5paH56ug54mb6IKJ5rmvIOWuieW5s-e4veW6l1_ku4rml6XmraPluLjnh5_mpa0!5e0!3m2!1szh-TW!2stw!4v1751946712755!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "name": "文章牛肉湯 東寧旗艦店",
+    "address": "台南市東區東寧路449號",
+    "open": "11:30",
+    "close": "02:00",
+    "closedDays": [4],
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14690.751943418789!2d120.16778755492894!3d22.998498319278387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761abb62710d%3A0xc31bcd84dd49574a!2z5paH56ug54mb6IKJ5rmvIOWuieW5s-e4veW6l1_ku4rml6XmraPluLjnh5_mpa0!5e0!3m2!1szh-TW!2stw!4v1751946712755!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "name": "阿財牛肉湯",
+    "address": "台南市安平區古堡街5號",
+    "open": "12:00",
+    "close": "21:00",
+    "closedDays": [3],
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.6613746144953!2d120.15928671744385!3d22.999476400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761d2b5bd8bf%3A0xc9aab3b5a8e96226!2z6Zi_6LKh54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1751955911014!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "name": "阿財牛肉湯 西門X保安店",
+    "address": "台南市中西區西門路二段1號",
+    "open": "11:30",
+    "close": "22:00",
+    "closedDays": [3],
+    "note": "週二、四 12點開始營業",
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.910709438662!2d120.19748009999999!3d22.9903107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7735dade610d%3A0xda55f05607c53fbd!2z6Zi_6LKh54mb6IKJ5rmvIOilv-mWgHjkv53lronlupc!5e0!3m2!1szh-TW!2stw!4v1751965178225!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
+  },
+  {
+    "name": "",
+    "address": "",
+    "open": "",
+    "close": "",
+    "closedDays": [],
+    "mapEmbed": ""
   }
+
+
 ]
