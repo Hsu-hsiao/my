@@ -62,6 +62,39 @@ h2  {
         font-style: normal;
     }
 
+.day-filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px 20px;
+  background-color: #fff;
+  }
+
+.day-button {
+  padding: 10px 24px;
+  border-radius: 999px; /* 圓形按鈕 */
+  border: 0px solid transparent;
+  background-color: #d9534f;
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 16px;
+  font-weight: 50;
+  font-style: lighter;
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.2s; /* 平滑過渡效果 */
+  }
+.day-button:hover {
+  opacity: 0.7;/* 鼠標懸停時的透明度變化 */
+}
+
+.day-button.active {
+  background-color: #ffcc00;
+  color: rgb(3, 8, 68);
+  font-weight: normal;
+  border-color: #e0aa00;
+}
+
 .time-filters {
   display: flex;
   justify-content: center;
@@ -112,6 +145,23 @@ h2  {
   background-color: #f28e2b;
   color: white;
 }*/
+
+#now-button {
+  background-color: #5bc0de; /* 淺藍色 */
+  color: white;
+  font-weight: lighter;
+  border: 0;
+}
+
+#now-button:hover {
+  opacity: 0.7;
+}
+
+#now-button.active {
+  background-color: #31b0d5; /* 深一點的藍 */
+  color: #fff;
+}
+
 
 .no-result {
   text-align: center;
