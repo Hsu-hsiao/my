@@ -1,0 +1,1291 @@
+[
+    {
+        "name": "阿棠牛肉湯",
+        "address": "台南市中西區中正路123號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:30-22:00"],
+            "wed": ["11:30-22:00"],                
+            "thu": ["11:30-22:00"],
+            "fri": ["11:30-22:00"],
+            "sat": ["11:30-22:00"],
+            "sun": ["11:30-22:00"]
+        },
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.8733357425253!2d120.19535809999999!3d22.991684799999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e767ac5ef0cbd%3A0x5590c425e1fbb6ab!2z6Zi_5qOg54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1751618815676!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+{
+        "name": "億哥牛肉湯",
+        "address": "台南市東區裕農路574號",
+        "opening_hours": {
+            "mon": ["00:00-24:00"],
+            "tue": ["00:00-24:00"],
+            "wed": ["00:00-24:00"],               
+            "thu": ["00:00-24:00"],
+            "fri": ["00:00-24:00"],
+            "sat": ["00:00-24:00"],
+            "sun": ["00:00-24:00"]
+        },
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.9612711284835!2d120.2341891!3d22.9884516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76bbf33ad70b%3A0x7c2afb13a749cd06!2z5YSE5ZOl54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1751618797707!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "六千泓佐土產牛肉",
+        "address": "台南市中西區海安路一段63號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": [],
+            "thu": ["05:00-11:00"],
+            "fri": ["05:00-11:00"],
+            "sat": ["05:00-11:00"],
+            "sun": ["05:00-11:00"]
+        },
+        "note": "建議當日凌晨3點至現場領取號碼牌，5點再回來享用第一鍋現沖的牛肉湯！",
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.9403762467177!2d120.19484779999999!3d22.9892199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76540c0c22b9%3A0xa094a0c002659c3b!2z5YWt5Y2D5rOT5L2Q5Zyf55Si54mb6IKJ!5e0!3m2!1szh-TW!2stw!4v1751618781636!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "文章牛肉湯 安平總店",
+        "address": "台南市安平區安平路300號",
+        "opening_hours": {
+            "mon": ["10:30-02:00"],
+            "tue": ["10:30-02:00"],
+            "wed": ["10:30-02:00"],
+            "thu": [],
+            "fri": ["10:30-02:00"],
+            "sat": ["10:30-02:00"],
+            "sun": ["10:30-02:00"]
+        },
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14690.751943418789!2d120.16778755492894!3d22.998498319278387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761abb62710d%3A0xc31bcd84dd49574a!2z5paH56ug54mb6IKJ5rmvIOWuieW5s-e4veW6l1_ku4rml6XmraPluLjnh5_mpa0!5e0!3m2!1szh-TW!2stw!4v1751946712755!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "文章牛肉湯 東寧旗艦店",
+        "address": "台南市東區東寧路449號",
+        "opening_hours": {
+            "mon": ["11:30-02:00"],
+            "tue": ["11:30-02:00"],
+            "wed": ["11:30-02:00"],
+            "thu": [],
+            "fri": ["11:30-02:00"],
+            "sat": ["11:30-02:00"],
+            "sun": ["11:30-02:00"]
+        },
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33730.33717531317!2d120.2108949385414!3d22.99245690889954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77e36f066363%3A0xa5d80130ecae9992!2z5paH56ug54mb6IKJ5rmvIOadseWvp-aXl-iJpuW6l1_ku4rml6XmraPluLjnh5_mpa0!5e0!3m2!1szh-TW!2stw!4v1752045002809!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿財牛肉湯",
+        "address": "台南市安平區古堡街5號",
+        "opening_hours": {
+            "mon": ["12:00-21:00"],
+            "tue": ["12:00-21:00"],
+            "wed": [],
+            "thu": ["12:00-21:00"],
+            "fri": ["12:00-21:00"],
+            "sat": ["12:00-21:00"],
+            "sun": ["12:00-21:00"]
+        },
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.6613746144953!2d120.15928671744385!3d22.999476400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761d2b5bd8bf%3A0xc9aab3b5a8e96226!2z6Zi_6LKh54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1751955911014!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿財牛肉湯 西門X保安店",
+        "address": "台南市中西區西門路二段1號",
+        "opening_hours": {
+            "mon": ["11:30-22:00"],
+            "tue": ["12:00-22:00"],
+            "wed": [],
+            "thu": ["12:00-22:00"],
+            "fri": ["11:30-22:00"],
+            "sat": ["11:30-22:00"],
+            "sun": ["11:30-22:00"]
+        },
+    "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.910709438662!2d120.19748009999999!3d22.9903107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7735dade610d%3A0xda55f05607c53fbd!2z6Zi_6LKh54mb6IKJ5rmvIOilv-mWgHjkv53lronlupc!5e0!3m2!1szh-TW!2stw!4v1751965178225!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿財牛肉湯 平豐店",
+        "address": "台南市安平區平豐路277號",
+        "opening_hours": {
+            "mon": ["12:00-22:00"],
+            "tue": ["12:00-22:00"],
+            "wed": [],
+            "thu": ["12:00-22:00"],
+            "fri": ["12:00-22:00"],
+            "sat": ["12:00-22:00"],
+            "sun": ["12:00-22:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58765.51179817184!2d120.12870747910156!3d22.99274540000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7735005b6693%3A0x51b3703a315de1a5!2z6Zi_6LKh54mb6IKJ5rmvIOW5s-ixkOW6lw!5e0!3m2!1szh-TW!2stw!4v1752130981003!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿村牛肉湯",
+        "address": "台南市中西區國華街三段128號",
+        "opening_hours": {
+            "mon": ["04:00-14:00"],
+            "tue": [],
+            "wed": ["04:00-14:00"],
+            "thu": ["04:00-14:00"],
+            "fri": ["04:00-14:00"],
+            "sat": ["04:00-14:00"],
+            "sun": ["04:00-14:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.826734183862!2d120.19501602544362!3d22.993398067416063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e766404c8e9d9%3A0x524c7b4126804cc5!2z6Zi_5p2R54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752120142883!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿村第二代牛肉湯",
+        "address": "台南市中西區保安路41號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["18:00-21:00"],
+            "wed": ["04:00-12:00","18:00-21:00"],
+            "thu": ["04:00-12:00","18:00-21:00"],
+            "fri": ["04:00-12:00","18:00-21:00"],
+            "sat": ["04:00-12:00","18:00-21:00"],
+            "sun": ["04:00-12:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4381.788398146725!2d120.19456833493933!3d22.993460183718355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e767b1d10de71%3A0xa1b5eb895be9ce7c!2z6Zi_5p2R56ys5LqM5Luj54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752127230724!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鬍鬚忠牛肉湯",
+        "address": "台南市中西區民族路三段91號",
+        "opening_hours": {
+            "mon": ["00:00-08:00","17:00-23:00"],
+            "tue": ["00:00-08:00","17:00-00:00"],
+            "wed": ["00:00-08:00","17:00-00:00"],
+            "thu": ["00:00-08:00","17:00-00:00"],
+            "fri": ["00:00-08:00","17:00-00:00"],
+            "sat": ["00:00-08:00","17:00-00:00"],
+            "sun": ["00:00-08:00","17:00-00:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.6913682086515!2d120.19471431744385!3d22.998374000000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76668e9bffed%3A0x94bed6f82fb07965!2z6ayN6aya5b-g54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752129986002!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鬍鬚忠牛肉湯 安平店",
+        "address": "台南市安平區建平七街589號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:30-20:30"],
+            "wed": ["11:30-20:30"],
+            "thu": ["11:30-20:30"],
+            "fri": ["11:30-20:30"],
+            "sat": ["11:30-20:30"],
+            "sun": ["11:30-20:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58764.917072894226!2d120.14307351876239!3d22.99411188629202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7777fd146e7b%3A0x6abe887bca7c3041!2z6ayN6aya5b-g54mb6IKJ5rmvIOWuieW5s-W6lw!5e0!3m2!1szh-TW!2stw!4v1752130134552!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "西羅殿牛肉湯",
+        "address": "台南市北區公園南路98號",
+        "opening_hours": {
+            "mon": ["04:30-13:00"],
+            "tue": [],
+            "wed": ["04:30-13:00"],
+            "thu": ["04:30-13:00"],
+            "fri": ["04:30-13:00"],
+            "sat": ["04:30-13:00"],
+            "sun": ["04:30-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14690.421618215925!2d120.19714435493012!3d23.001533418800186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76f4d0a73ba1%3A0x74660490b99c2187!2z6KW_576F5q6_54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752130257125!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "永樂牛肉湯",
+        "address": "台南市中西區國華街三段175號",
+        "opening_hours": {
+            "mon": ["00:00-09:00"],
+            "tue": [],
+            "wed": ["00:00-09:00"],
+            "thu": ["00:00-09:00"],
+            "fri": ["00:00-09:00"],
+            "sat": ["00:00-09:00"],
+            "sun": ["00:00-09:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12313.8133713661!2d120.19026121237717!3d22.998591120113147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7666ae49c3d7%3A0xd40edc14511d6e2e!2z5rC45qiC54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752130420814!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "旗哥牛肉湯",
+        "address": "台南市北區中華北路一段126號",
+        "opening_hours": {
+            "mon": ["07:00-14:00"],
+            "tue": ["15:00-00:00"],
+            "wed": ["07:00-00:00"],
+            "thu": ["07:00-00:00"],
+            "fri": ["07:00-00:00"],
+            "sat": ["07:00-00:00"],
+            "sun": []
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14689.51607358201!2d120.17523355493343!3d23.009851817489295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76f7aaaaaaab%3A0xcdb2bf6a690a5c12!2z5peX5ZOl54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752131221763!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "二牛牛肉湯",
+        "address": "台南市安平區安平路570號",
+        "opening_hours": {
+            "mon": ["07:30-00:30"],
+            "tue": ["07:30-00:30"],
+            "wed": ["07:30-00:30"],
+            "thu": ["07:30-00:30"],
+            "fri": ["07:30-00:30"],
+            "sat": ["07:30-01:00"],
+            "sun": ["07:30-01:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58762.942354316954!2d120.13517597910158!3d22.998648600000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761aa6b5af9b%3A0x272596f4eb204f38!2z5LqM54mb54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752131350012!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "豪牛牛肉湯",
+        "address": "台南市中西區西門路二段359號",
+        "opening_hours": {
+            "mon": ["10:00-16:45"],
+            "tue": ["10:00-16:45"],
+            "wed": ["10:00-16:00"],
+            "thu": [],
+            "fri": ["10:00-16:45"],
+            "sat": ["10:00-17:00"],
+            "sun": ["10:00-16:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34605.828540459865!2d120.19069116373906!3d22.998897857461582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7791b6427fcb%3A0x969fbfb56763cb73!2z6LGq54mb54mb6IKJ5rmv77yI5ZSu5a6M54K65q2i77yJ!5e0!3m2!1szh-TW!2stw!4v1752131572371!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿蓮牛肉湯",
+        "address": "台南市新化區大智路37號",
+        "opening_hours": {
+            "mon": ["05:00-10:30"],
+            "tue": [],
+            "wed": ["05:00-10:30"],
+            "thu": ["05:00-10:30"],
+            "fri": ["05:00-10:30"],
+            "sat": ["05:00-10:30"],
+            "sun": ["05:00-10:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235066.57846813792!2d120.06551952491583!3d22.990142336222707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e707cd0d70c21%3A0x96c6a69ab1aab8f8!2z6Zi_6JOu54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752131825118!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿蓮牛肉湯-台南公園店",
+        "address": "台南市中西區公園路57號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-00:00"],
+            "wed": ["11:00-00:00"],
+            "thu": ["11:00-00:00"],
+            "fri": ["11:00-00:00"],
+            "sat": ["11:00-00:00"],
+            "sun": ["11:00-00:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58766.77714375653!2d120.18913086987303!3d22.989837789615613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77001dccaebf%3A0xc1002a57b9ccac75!2z6Zi_6JOu54mb6IKJ5rmvLeWPsOWNl-WFrOWckuW6lw!5e0!3m2!1szh-TW!2stw!4v1752131680701!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "娟姐牛肉湯",
+        "address": "台南市北區勝利路381號",
+        "opening_hours": {
+            "mon": ["11:00-21:00"],
+            "tue": ["11:00-21:00"],
+            "wed": ["11:00-21:00"],
+            "thu": ["11:00-21:00"],
+            "fri": ["11:00-21:00"],
+            "sat": ["11:00-21:00"],
+            "sun": []
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58766.64887688292!2d120.18913077371523!3d22.990132547143922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e772f09bd67bf%3A0xa92b50700df4b897!2z5aif5aeQ54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752132015196!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛牛肉湯",
+        "address": "台南市東區小東路250-3號",
+        "opening_hours": {
+            "mon": ["06:30-21:00"],
+            "tue": ["06:30-21:00"],
+            "wed": ["06:30-21:00"],
+            "thu": ["06:30-21:00"],
+            "fri": ["06:30-21:00"],
+            "sat": ["06:30-21:00"],
+            "sun": ["06:30-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58766.64887688292!2d120.18913077371523!3d22.990132547143922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76c1b1c7eebb%3A0xf96b3fb50581c5d!2z6Zi_54mb54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752132758268!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "無名牛肉湯",
+        "address": "台南市中西區府前路二段121號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["11:00-22:00"],
+            "thu": ["11:00-22:00"],
+            "fri": ["11:00-22:00"],
+            "sat": ["11:00-22:00"],
+            "sun": ["11:00-22:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41286.984544147184!2d120.1887223817761!3d22.994933564095973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e766ffefffffb%3A0x149d68cd17261733!2z54Sh5ZCN54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752132862754!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "娟姐牛肉湯",
+        "address": "台南市北區勝利路381號",
+        "opening_hours": {
+            "mon": ["11:00-21:00"],
+            "tue": ["11:00-21:00"],
+            "wed": ["11:00-21:00"],
+            "thu": ["11:00-21:00"],
+            "fri": ["11:00-21:00"],
+            "sat": ["11:00-21:00"],
+            "sun": []
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58766.64887688292!2d120.18913077371523!3d22.990132547143922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e772f09bd67bf%3A0xa92b50700df4b897!2z5aif5aeQ54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752132015196!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "苏 - 牛肉湯",
+        "address": "台南市東區崇德路686號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["12:00-22:00"],
+            "wed": ["12:00-22:00"],
+            "thu": ["12:00-22:00"],
+            "fri": ["12:00-22:00"],
+            "sat": ["12:00-22:00"],
+            "sun": ["12:00-22:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29006.90999323011!2d120.19109510911072!3d22.9978486112262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e74227cb6f4d7%3A0x43342f9ccb2bfe23!2z6IuPIC0g54mb6IKJ5rmv4oCU5ZSu5a6M54K65q2i!5e0!3m2!1szh-TW!2stw!4v1752132981646!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鴻品牛肉湯",
+        "address": "台南市永康區大安街288號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-14:00, 16:00-21:00"],
+            "wed": ["11:00-14:00, 16:00-21:00"],
+            "thu": ["11:00-14:00, 16:00-21:00"],
+            "fri": ["11:00-14:00, 16:00-21:00"],
+            "sat": ["11:00-14:00, 16:00-21:00"],
+            "sun": ["11:00-14:00, 16:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235060.33813155154!2d120.02828593451075!3d22.993727125168657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e71279da31095%3A0x391953fae66a03e2!2z6bS75ZOB54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752133143585!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鴻品牛肉湯（市政府店）",
+        "address": "台南市中西區中華西路二段50號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-22:00"],
+            "wed": ["11:00-22:00"],
+            "thu": ["11:00-22:00"],
+            "fri": ["11:00-22:00"],
+            "sat": ["11:00-22:00"],
+            "sun": ["11:00-22:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235060.33813155154!2d120.02828593451075!3d22.993727125168657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77d6803fd8f1%3A0x5e24caa856f3cb6e!2z6bS75ZOB54mb6IKJ5rmv77yI5biC5pS_5bqc5bqX77yJ!5e0!3m2!1szh-TW!2stw!4v1752133229609!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "友愛牛肉湯",
+        "address": "台南市中西區友愛街109號",
+        "opening_hours": {
+            "mon": ["06:00-14:30"],
+            "tue": [],
+            "wed": [],
+            "thu": ["06:00-14:30"],
+            "fri": ["06:00-14:30"],
+            "sat": ["06:00-14:30"],
+            "sun": ["06:00-14:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58766.713010465086!2d120.18913082179414!3d22.98998516849248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76635319212f%3A0x97dd8eb4d1294a81!2z5Y-L5oSb54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752133448382!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "美鮮牛肉湯",
+        "address": "台南市南區新興路419號之1號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["03:00-00:00"],
+            "thu": ["00:00-24:00"],
+            "fri": ["00:00-24:00"],
+            "sat": ["00:00-24:00"],
+            "sun": ["00:00-24:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58766.713010465086!2d120.18913082179414!3d22.98998516849248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e75dbac4a6a15%3A0x25f38baa606adaab!2z576O6a6u54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752133644419!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鴻牛溫體牛肉湯-東寧店",
+        "address": "台南市東區東寧路430號",
+        "opening_hours": {
+            "mon": ["11:00-02:00"],
+            "tue": ["11:00-02:00"],
+            "wed": ["11:00-02:00"],
+            "thu": ["11:00-02:00"],
+            "fri": ["11:00-02:00"],
+            "sat": ["11:00-02:00"],
+            "sun": ["11:00-02:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235066.3219332924!2d120.065519476852!3d22.9902897142182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e775394eb5851%3A0xcef7f4661b72f275!2z6bS754mb5rqr6auU54mb6IKJ5rmvLeadseWvp-W6l--9nOadseWNgOe-jumjn--9nOWuteWknOeJm-iCiea5r--9nOeGsemWgOeJm-iCiea5r--9nOWPsOWNl-e-jumjn-aOqOiWpu-9nOWPsOWNl-Wwj-WQg-aOqOiWpu-9nOeJm-iCiea5r-aOqOiWpu-9nOa6q-mrlOeJm--9nOW_heWQg-eJm-iCiemNi--9nOWuteWknOaOqOiWpu-9nOeGseeCkuaOqOiWpu-9nOW_heWQg-e-jumjn--9nOipleWDueeJm-iCiea5r--9nA!5e0!3m2!1szh-TW!2stw!4v1752133831645!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鴻牛溫體牛肉湯-南門店",
+        "address": "台南市中西區南門路63-1號",
+        "opening_hours": {
+            "mon": ["11:30-19:30"],
+            "tue": ["11:30-19:30"],
+            "wed": ["11:30-19:30"],
+            "thu": ["11:30-19:30"],
+            "fri": ["11:30-19:30"],
+            "sat": ["11:30-19:30"],
+            "sun": ["11:30-19:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235066.3219332924!2d120.065519476852!3d22.9902897142182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e778def8f26bb%3A0xcf142f22efd4bd13!2z6bS754mb5rqr6auU54mb6IKJ5rmvLeWNl-mWgOW6lw!5e0!3m2!1szh-TW!2stw!4v1752133997484!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鴻牛溫體牛肉湯-民權店",
+        "address": "台南市中西區民權路二段250號",
+        "opening_hours": {
+            "mon": ["17:00-02:00"],
+            "tue": ["17:00-02:00"],
+            "wed": ["17:00-02:00"],
+            "thu": ["17:00-02:00"],
+            "fri": ["17:00-02:00"],
+            "sat": ["17:00-02:00"],
+            "sun": ["17:00-02:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235066.3219332924!2d120.065519476852!3d22.9902897142182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77d26b928f75%3A0xa1d388afcd336bd!2z6bS754mb5rqr6auU54mb6IKJ5rmvLeawkeasiuW6lw!5e0!3m2!1szh-TW!2stw!4v1752134212802!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "台南市牛家莊牛肉湯",
+        "address": "台南市中西區郡西路86號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["10:00-13:00, 17:00-20:00"],
+            "thu": ["10:00-13:00, 17:00-20:00"],
+            "fri": ["10:00-13:00, 17:00-20:00"],
+            "sat": ["10:00-13:00, 17:00-20:00"],
+            "sun": ["10:00-13:00, 17:00-20:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22803.29398342381!2d120.18770056286867!3d22.99147556894159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e767a059d39cb%3A0xa396e5d3dd1f8587!2z5Y-w5Y2X5biC54mb5a626I6K54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752134442462!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿銘牛肉湯",
+        "address": "台南市永康區永中街42號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["07:30-15:00"],
+            "thu": ["07:30-15:00"],
+            "fri": ["07:30-15:00"],
+            "sat": ["07:30-15:00"],
+            "sun": ["07:30-15:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.993872484002!2d120.2575081!3d23.0239972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e70d0a1a87ffb%3A0x14584981f2193a6f!2z6Zi_6YqY54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752134525431!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿杰溫體牛肉湯",
+        "address": "台南市中西區西門路二段421號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["17:00-00:00"],
+            "wed": ["17:00-00:00"],
+            "thu": ["17:00-00:00"],
+            "fri": ["17:00-00:00"],
+            "sat": ["17:00-00:00"],
+            "sun": []
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6977.73661598261!2d120.19650144775434!3d22.998772126374757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77389034ca0f%3A0x3295fc12a6ecdb3e!2z6Zi_5p2w5rqr6auU54mb6IKJ5rmv77yI5q-P5aSp5ZSu5a6M54K65q2i77yJ!5e0!3m2!1szh-TW!2stw!4v1752134685836!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "助仔牛肉湯",
+        "address": "台南市安平區安平路624號",
+        "opening_hours": {
+            "mon": ["05:00-14:00"],
+            "tue": [],
+            "wed": ["05:00-20:30"],
+            "thu": ["05:00-20:30"],
+            "fri": ["05:00-20:30"],
+            "sat": ["05:00-20:30"],
+            "sun": ["05:00-20:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10189.869096047416!2d120.1623553031832!3d22.998018605525736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761ac3978cf9%3A0xe59019a5a189929d!2z5Yqp5LuU54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752137651957!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿誠牛肉湯",
+        "address": "台南市中西區武聖路69巷40弄4號",
+        "opening_hours": {
+            "mon": ["10:00-15:00,17:00-20:00"],
+            "tue": [],
+            "wed": ["10:00-15:00,17:00-20:00"],
+            "thu": ["10:00-15:00,17:00-20:00"],
+            "fri": ["10:00-15:00,17:00-20:00"],
+            "sat": ["10:00-15:00,17:00-20:00"],
+            "sun": ["10:00-15:00,17:00-20:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8540.735951392116!2d120.18613563494344!3d23.00490231914854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7643aaaaaaab%3A0xcdf45ab91cf7bd63!2z6Zi_6Kqg54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752138015670!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "府城牛肉湯-台南中西區店",
+        "address": "台南市中西區府前路二段167-2號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["16:00-04:00"],
+            "wed": ["16:00-04:00"],
+            "thu": ["16:00-04:00"],
+            "fri": ["16:00-04:00"],
+            "sat": ["16:00-04:00"],
+            "sun": ["16:00-04:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7159.54074985812!2d120.18866663549822!3d22.992149127096933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7670737f1c3f%3A0xd5e8886e37a3ecce!2z5bqc5Z-O54mb6IKJ5rmvLeWPsOWNl-S4reilv-WNgOW6lw!5e0!3m2!1szh-TW!2stw!4v1752138583108!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "府城牛肉湯-台南永康區店",
+        "address": "台南市永康區中正北路143號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["17:00-02:00"],
+            "wed": ["17:00-02:00"],
+            "thu": ["17:00-02:00"],
+            "fri": ["17:00-02:00"],
+            "sat": ["17:00-02:00"],
+            "sun": ["17:00-02:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17297.640257715062!2d120.23101927645016!3d23.04000799698361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e774f34e05df1%3A0x945c87fc283621b8!2z5bqc5Z-O54mb6IKJ5rmvLeWPsOWNl-awuOW6t-WNgOW6lw!5e0!3m2!1szh-TW!2stw!4v1752138647822!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "府城牛肉湯-台南仁德區店",
+        "address": "台南市仁德區中山路607號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["17:00-02:30"],
+            "wed": ["17:00-02:30"],
+            "thu": ["17:00-02:30"],
+            "fri": ["17:00-02:30"],
+            "sat": ["17:00-02:30"],
+            "sun": ["17:00-02:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8542.960079782868!2d120.24497914073106!3d22.969734452829986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e71553a531f21%3A0xc317743f989824d8!2z5bqc5Z-O54mb6IKJ5rmvLeWPsOWNl-S7geW-t-WNgOW6lw!5e0!3m2!1szh-TW!2stw!4v1752138730614!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "圓環牛肉湯",
+        "address": "台南市中西區府前路二段153號",
+        "opening_hours": {
+            "mon": ["05:00-13:00"],
+            "tue": [],
+            "wed": [],
+            "thu": ["05:00-13:00"],
+            "fri": ["05:00-13:00"],
+            "sat": ["05:00-13:00"],
+            "sun": ["05:00-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14319.066103842943!2d120.18534334041794!3d22.992294312865944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e767a9e4e6607%3A0xb7b2f654e77520d!2z5ZyT55Kw54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752138854176!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "潘家牛肉湯",
+        "address": "台南市中西區國華街三段125號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["08:30-21:00"],
+            "wed": ["08:30-21:00"],
+            "thu": ["08:30-21:00"],
+            "fri": ["08:30-21:00"],
+            "sat": ["08:30-21:00"],
+            "sun": ["08:30-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14316.935504739906!2d120.18948982754812!3d23.01237787879202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76641bf02645%3A0xe5b4baa43a3bda1d!2z5r2Y5a6254mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752138952638!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "樑記正老店牛肉湯",
+        "address": "台南市中西區郡西路10號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:30-20:00"],
+            "wed": ["11:30-20:00"],
+            "thu": [],
+            "fri": ["11:30-20:00"],
+            "sat": ["11:30-20:00"],
+            "sun": ["11:30-20:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24315.002206947414!2d120.18108444697953!3d22.99038534888913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e772d2b11518b%3A0x318cbd56d9dbc720!2z5qiR6KiY5q2j6ICB5bqX54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752139045704!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "鄭牛肉湯",
+        "address": "台南市中西區金華路四段47巷2號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["17:00-01:00"],
+            "wed": ["17:00-01:00"],
+            "thu": ["17:00-01:00"],
+            "fri": ["17:00-01:00"],
+            "sat": ["17:00-01:00"],
+            "sun": ["17:00-01:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6933.078359934942!2d120.19097415132345!3d22.999138094551054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76660e0c12d9%3A0x553d1c29e4c7c71c!2z6YSt54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752139402112!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "琴記牛肉湯",
+        "address": "台南市中西區金華路三段20號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["17:00-00:00"],
+            "thu": ["17:00-00:00"],
+            "fri": ["17:00-00:00"],
+            "sat": ["17:00-00:00"],
+            "sun": ["17:00-00:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5924.668495598039!2d120.1901128803404!3d22.990689603267626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7670bf186e47%3A0xfffcc90ed89e7b3b!2z55C06KiY54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752139533161!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "盛牛肉湯",
+        "address": "台南市中西區國華街二段81巷4號",
+        "opening_hours": {
+            "mon": ["09:00-21:00"],
+            "tue": ["09:00-21:00"],
+            "wed": ["09:00-21:00"],
+            "thu": ["09:00-21:00"],
+            "fri": ["09:00-21:00"],
+            "sat": ["09:00-21:00"],
+            "sun": ["09:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5924.682337952738!2d120.19299617698157!3d22.990374091411912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7664ea0fb837%3A0x1f54726920877863!2z55ub54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752139835606!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯 總店",
+        "address": "台南市南區金華路二段27巷77號",
+        "opening_hours": {
+            "mon": ["05:00-13:00"],
+            "tue": [],
+            "wed": ["05:00-13:00"],
+            "thu": ["05:00-13:00"],
+            "fri": ["05:00-13:00"],
+            "sat": ["05:00-13:00"],
+            "sun": ["05:00-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8542.554536065896!2d120.18224508123897!3d22.976150695691796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e75dc0a0830cb%3A0x5aee55ea701af261!2z6Zi_54mb5LuU54mb6IKJ5rmvIOe4veW6lw!5e0!3m2!1szh-TW!2stw!4v1752139991834!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯 西門店",
+        "address": "台南市中西區西門路一段464號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["05:00-13:00"],
+            "thu": ["05:00-13:00"],
+            "fri": ["05:00-13:00"],
+            "sat": ["05:00-13:00"],
+            "sun": ["05:00-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12158.102882081761!2d120.19109948794427!3d22.983699977912213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7678e7d65e09%3A0xb355e6ad42b9061a!2z6Zi_54mb5LuU54mb6IKJ5rmvIOilv-mWgOW6lw!5e0!3m2!1szh-TW!2stw!4v1752140089803!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯-善化店",
+        "address": "台南市善化區中華路170號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-21:30"],
+            "wed": ["11:00-21:30"],
+            "thu": ["11:00-21:30"],
+            "fri": ["11:00-21:30"],
+            "sat": ["11:00-21:30"],
+            "sun": ["11:00-21:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14489.09088342853!2d120.2820507585322!3d23.13118074464749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7b8769f943a1%3A0xbb1a49d1118a2bc9!2z6Zi_54mb5LuU54mb6IKJ5rmvLeWWhOWMluW6lw!5e0!3m2!1szh-TW!2stw!4v1752140177023!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯 新市店",
+        "address": "台南市新市區中山路92號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:30-21:00"],
+            "wed": ["11:30-21:00"],
+            "thu": ["11:30-21:00"],
+            "fri": ["11:30-21:00"],
+            "sat": ["11:30-21:00"],
+            "sun": []
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29364.69329161443!2d120.28372253955078!3d23.075610599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7a66e29867ab%3A0xf8ad0e71f21f72dd!2z6Zi_54mb5LuU54mb6IKJ5rmvIOaWsOW4guW6lw!5e0!3m2!1szh-TW!2stw!4v1752140253092!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯-國安店",
+        "address": "台南市安南區國安街155巷20弄2號",
+        "opening_hours": {
+            "mon": ["06:30-13:00"],
+            "tue": [],
+            "wed": ["06:30-13:00"],
+            "thu": ["06:30-13:00"],
+            "fri": ["06:30-13:00"],
+            "sat": ["06:30-13:00"],
+            "sun": ["06:30-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14500.907448259753!2d120.17823775115335!3d23.021548998430333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77145f987b4d%3A0x250445220c9b4f28!2z6Zi_54mb5LuU54mb6IKJ5rmvLeWci-WuieW6lw!5e0!3m2!1szh-TW!2stw!4v1752140472254!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯 兵仔市店",
+        "address": "台南市永康區勝華街37巷88號",
+        "opening_hours": {
+            "mon": ["04:00-13:00"],
+            "tue": [],
+            "wed": ["04:00-13:00"],
+            "thu": ["04:00-13:00"],
+            "fri": ["04:00-13:00"],
+            "sat": ["04:00-13:00"],
+            "sun": ["04:00-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12156.023648610537!2d120.22704381140221!3d23.00679112375649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77f3686c818d%3A0xaa753a6f4e1800a8!2z6Zi_54mb5LuU54mb6IKJ5rmvIOWFteS7lOW4guW6lw!5e0!3m2!1szh-TW!2stw!4v1752140569561!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "新營阿牛仔牛肉湯（新營店）",
+        "address": "台南市新營區新進路二段87-1號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-20:30"],
+            "wed": ["11:00-20:30"],
+            "thu": ["11:00-20:30"],
+            "fri": ["11:00-20:30"],
+            "sat": ["11:00-20:30"],
+            "sun": ["11:00-20:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14470.54747537382!2d120.30246643475516!3d23.302239886978608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e8795c8f3f2b5%3A0x23ea530b88f8eb7c!2z5paw54ef6Zi_54mb5LuU54mb6IKJ5rmv77yI5paw54ef5bqX77yJ!5e0!3m2!1szh-TW!2stw!4v1752140666109!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯-麻豆店",
+        "address": "台南市麻豆區中山路133號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-20:30"],
+            "wed": ["11:00-20:30"],
+            "thu": ["11:00-20:30"],
+            "fri": ["11:00-20:30"],
+            "sat": ["11:00-20:30"],
+            "sun": ["11:00-20:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17279.37504905798!2d120.23820537183131!3d23.18184978412743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7f0054253111%3A0xd267de17f776f778!2z6Zi_54mb5LuU54mb6IKJ5rmvLem6u-ixhuW6lw!5e0!3m2!1szh-TW!2stw!4v1752140743443!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿牛仔牛肉湯 大灣店",
+        "address": "台南市永康區大灣路60號",
+        "opening_hours": {
+            "mon": ["04:30-13:15"],
+            "tue": ["04:30-13:15"],
+            "wed": ["04:30-13:15"],
+            "thu": ["04:30-13:15"],
+            "fri": ["04:30-13:15"],
+            "sat": ["04:30-13:15"],
+            "sun": ["04:30-13:15"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12155.428349796433!2d120.26399900177749!3d23.013398242527607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e70def10ef463%3A0x8d7ae8ac9c606391!2z6Zi_54mb5LuU54mb6IKJ5rmvIOWkp-eBo-W6lw!5e0!3m2!1szh-TW!2stw!4v1752140855787!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿榮牛肉湯",
+        "address": "台南市永康區永大路一段300號",
+        "opening_hours": {
+            "mon": ["05:00-13:30"],
+            "tue": [],
+            "wed": ["05:00-13:30"],
+            "thu": ["05:00-13:30"],
+            "fri": ["05:00-13:30"],
+            "sat": ["05:00-13:30"],
+            "sun": ["05:00-13:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14690.26726191928!2d120.25205484952927!3d23.002951548059453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7131d02c6ab1%3A0xe539afda8bb70256!2z6Zi_5qau54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752170508519!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "麻豆阿榮牛肉湯-中崙分店",
+        "address": "台南市安定區中沙里中崙10號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-20:30"],
+            "wed": ["11:00-20:30"],
+            "thu": ["11:00-20:30"],
+            "fri": ["11:00-20:30"],
+            "sat": ["11:00-20:30"],
+            "sun": ["11:00-20:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34921.53260228812!2d120.19621150737574!3d23.072412313671187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e79cee9015073%3A0x54359bfed829d710!2z6bq76LGG6Zi_5qau54mb6IKJ5rmvLeS4reW0meWIhuW6lw!5e0!3m2!1szh-TW!2stw!4v1752170693927!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "麻豆阿榮牛肉湯(新化店)",
+        "address": "台南市新化區竹林路36號",
+        "opening_hours": {
+            "mon": ["05:00-13:30"],
+            "tue": [],
+            "wed": ["05:00-13:30,17:00-21:00"],
+            "thu": ["05:00-13:30,17:00-21:00"],
+            "fri": ["05:00-13:30,17:00-21:00"],
+            "sat": ["05:00-13:30,17:00-21:00"],
+            "sun": ["05:00-13:30,17:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29373.28735107314!2d120.29335178068123!3d23.036219078613176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e71dd2d4269e5%3A0xbc0b3bf85120aa42!2z6bq76LGG6Zi_5qau54mb6IKJ5rmvKOaWsOWMluW6lyk!5e0!3m2!1szh-TW!2stw!4v1752170852538!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿榮牛肉湯",
+        "address": "台南市麻豆區興國路2-1號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["10:30-21:30"],
+            "wed": ["10:30-21:30"],
+            "thu": ["10:30-21:30"],
+            "fri": ["10:30-21:30"],
+            "sat": ["10:30-21:30"],
+            "sun": ["10:30-21:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29339.886891693244!2d120.23188789630586!3d23.188957768153006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7e8067149a69%3A0x4760bb244a2cc48d!2z6Zi_5qau54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752170973248!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "麻豆阿榮牛肉湯-佳里店",
+        "address": "台南市佳里區新生路339號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-21:30"],
+            "wed": ["11:00-21:30"],
+            "thu": ["11:00-21:30"],
+            "fri": ["11:00-21:30"],
+            "sat": ["11:00-21:30"],
+            "sun": ["11:00-21:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14672.889820168337!2d120.175042670241!3d23.162079673999877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7f4cede1982b%3A0xe39b2dc3f62127c0!2z6bq76LGG6Zi_5qau54mb6IKJ5rmvLeS9s-mHjOW6lw!5e0!3m2!1szh-TW!2stw!4v1752171097983!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "順福土產牛肉湯",
+        "address": "台南市佳里區延平路324號",
+        "opening_hours": {
+            "mon": ["03:30-14:00"],
+            "tue": [],
+            "wed": ["03:30-14:00"],
+            "thu": ["03:30-14:00"],
+            "fri": ["03:30-14:00"],
+            "sat": ["03:30-14:00"],
+            "sun": ["03:30-14:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14672.844587996135!2d120.16956126929024!3d23.16249252406996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7f4bd076e6b5%3A0xc946e4454b5ca885!2z6aCG56aP5Zyf55Si54mb6IKJ5rmv77yI5pyA5b6M5pS25a6iMTQ6MDDvvIk!5e0!3m2!1szh-TW!2stw!4v1752171204950!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "萬林牛肉湯",
+        "address": "台南市佳里區延平路181號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-14:00,17:00-21:00"],
+            "wed": ["11:00-14:00,17:00-21:00"],
+            "thu": ["11:00-14:00,17:00-21:00"],
+            "fri": ["11:00-14:00,17:00-21:00"],
+            "sat": ["11:00-14:00,17:00-21:00"],
+            "sun": ["11:00-14:00,17:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12338.620094496246!2d120.17085230437704!3d23.159478350175768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7f4b22f70981%3A0xf7e01c1adf1b87d5!2z6JCs5p6X54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752171327482!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "森山溫體牛肉湯",
+        "address": "台南市佳里區光復路153號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-14:00,17:00-21:00"],
+            "wed": ["11:00-14:00,17:00-21:00"],
+            "thu": ["11:00-14:00,17:00-21:00"],
+            "fri": ["11:00-14:00,17:00-21:00"],
+            "sat": ["11:00-14:00,17:00-21:00"],
+            "sun": ["11:00-14:00,17:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7336.798036222676!2d120.16993967403789!3d23.15563255695327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7fe1b70c552d%3A0x348fd5df415079b6!2z5qOu5bGx5rqr6auU54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752171481897!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "其森牛肉湯-麻豆總店",
+        "address": "台南市麻豆區興民街1號",
+        "opening_hours": {
+            "mon": ["05:00-14:00"],
+            "tue": [],
+            "wed": [],
+            "thu": ["05:00-14:00"],
+            "fri": ["05:00-14:00"],
+            "sat": ["05:00-14:00"],
+            "sun": ["05:00-14:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12336.19691232372!2d120.24070830231543!3d23.18576924544925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7e80b30b38ad%3A0xfdef1c62ab34e4ff!2z5YW25qOu54mb6IKJ5rmvLem6u-ixhue4veW6lw!5e0!3m2!1szh-TW!2stw!4v1752171589647!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "牛狀元牛肉湯",
+        "address": "台南市麻豆區麻佳路一段87-7號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["07:00-14:15,17:00-23:15"],
+            "wed": ["07:00-14:15,17:00-23:15"],
+            "thu": ["07:00-14:15,17:00-23:15"],
+            "fri": ["07:00-14:15,17:00-23:15"],
+            "sat": ["07:00-14:15,17:00-23:15"],
+            "sun": ["07:00-14:15,17:00-23:15"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29340.983287595314!2d120.22665874178145!3d23.183959100000024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7e87d0b0aa6f%3A0x7e34ad50d31a3ee6!2z54mb54uA5YWD54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752171702805!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "瀅 · 牛肉湯",
+        "address": "台南市善化區中興路43號",
+        "opening_hours": {
+            "mon": ["05:30-22:00"],
+            "tue": ["05:30-22:00"],
+            "wed": ["05:30-22:00"],
+            "thu": ["05:30-22:00"],
+            "fri": ["05:30-22:00"],
+            "sat": ["05:30-22:00"],
+            "sun": ["05:30-22:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17452.962858816652!2d120.28293199556276!3d23.13245161856136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7b6940400095%3A0x11ef581fa25d8cf5!2z54CFIMK3IOeJm-iCiea5rw!5e0!3m2!1szh-TW!2stw!4v1752171849237!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "合化牛肉湯",
+        "address": "台南市善化區三民路1-43號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["10:30-14:00,17:00-21:00"],
+            "wed": ["10:30-14:00,17:00-21:00"],
+            "thu": ["10:30-14:00,17:00-21:00"],
+            "fri": ["10:30-14:00,17:00-21:00"],
+            "sat": ["10:30-14:00,17:00-21:00"],
+            "sun": ["10:30-14:00,17:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58704.042555981265!2d120.26836016399065!3d23.133578042971354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7b24517714e7%3A0x4fbce3da9d7c25aa!2z5ZCI5YyW54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752172100607!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "一葉牛肉清湯",
+        "address": "台南市善化區建國路123號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-14:00,17:00-21:00"],
+            "wed": ["11:00-14:00,17:00-21:00"],
+            "thu": ["11:00-14:00,17:00-21:00"],
+            "fri": ["11:00-14:00,17:00-21:00"],
+            "sat": ["11:00-14:00,17:00-21:00"],
+            "sun": ["11:00-14:00,17:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29350.189891047172!2d120.28677084714273!3d23.14194427318984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7ba73c8b07e1%3A0xae7774eca26bd86e!2z5LiA6JGJ54mb6IKJ5riF5rmv!5e0!3m2!1szh-TW!2stw!4v1752171999672!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "福勝牛肉湯",
+        "address": "台南市善化區光復路448號的對面",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-14:30,16:30-20:00"],
+            "wed": ["11:00-14:30,16:30-20:00"],
+            "thu": ["11:00-14:30,16:30-20:00"],
+            "fri": ["11:00-14:30,16:30-20:00"],
+            "sat": ["11:00-14:30,16:30-20:00"],
+            "sun": ["11:00-14:30,16:30-20:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24682.166104398206!2d120.27245577267065!3d23.132726968690903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7b88ab5a402d%3A0x1aadb36465d08cc5!2z56aP5Yud54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752172337630!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "和味牛肉湯",
+        "address": "台南市善化區建國路12之29號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["07:30-23:30"],
+            "wed": ["07:30-23:30"],
+            "thu": ["07:30-23:30"],
+            "fri": ["07:30-23:30"],
+            "sat": ["07:30-23:30"],
+            "sun": ["07:30-23:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24682.13007266715!2d120.280140824546!3d23.132922753907323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7b826f9d4e39%3A0xcec73f1b48fa68c8!2z5ZKM5ZGz54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752172193358!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "258牛肉湯",
+        "address": "台南市善化區(善化牛墟)",
+        "opening_hours": {
+            "mon": ["05:30-12:00"],
+            "tue": ["05:30-12:00"],
+            "wed": ["05:30-12:00"],
+            "thu": ["05:30-12:00"],
+            "fri": ["05:30-12:00"],
+            "sat": ["05:30-12:00"],
+            "sun": ["05:30-12:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41507.19919336905!2d120.25875822753632!3d23.14271101734582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7c76d7481b1b%3A0xf4ffbe1340fba131!2zMjU454mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752172473442!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿舍牛肉湯",
+        "address": "台南市南區文南路312號",
+        "opening_hours": {
+            "mon": ["07:30-20:00"],
+            "tue": [],
+            "wed": ["07:30-20:00"],
+            "thu": ["07:30-20:00"],
+            "fri": ["07:30-20:00"],
+            "sat": ["07:30-20:00"],
+            "sun": ["07:30-20:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7345.866797188557!2d120.18595083831202!3d22.989476461267813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77007fb089f7%3A0xdd3ffe19da0f397c!2z6Zi_6IiN54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752172622791!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "會饗牛肉湯",
+        "address": "台南市北區富北街46號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["09:00-17:00"],
+            "wed": ["09:00-17:00"],
+            "thu": ["09:00-17:00"],
+            "fri": ["09:00-17:00"],
+            "sat": ["09:00-19:00"],
+            "sun": ["09:00-19:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8735.120427618129!2d120.20583045895928!3d22.99931642604918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7746cf5139d5%3A0x33683e8067be335d!2z5pyD6aWX54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752172740088!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "新鮮牛肉湯(東門店)",
+        "address": "台南市東區東門路二段91號",
+        "opening_hours": {
+            "mon": ["05:00-13:00"],
+            "tue": [],
+            "wed": ["05:00-13:00"],
+            "thu": ["05:00-13:00"],
+            "fri": ["05:00-13:00"],
+            "sat": ["05:00-13:00"],
+            "sun": ["05:00-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6177.212900229549!2d120.21709593947071!3d22.987293497871743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7786487b8063%3A0xaf5e6b88c7c803a0!2z5paw6a6u54mb6IKJ5rmvKOadsemWgOW6lyk!5e0!3m2!1szh-TW!2stw!4v1752172860895!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "崇明新鮮牛肉湯",
+        "address": "台南市東區崇明路40號",
+        "opening_hours": {
+            "mon": ["06:00-13:00"],
+            "tue": [],
+            "wed": ["06:00-13:00"],
+            "thu": ["06:00-13:00"],
+            "fri": ["06:00-13:00"],
+            "sat": ["06:00-13:00"],
+            "sun": ["06:00-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14692.348786062752!2d120.2077300995139!3d22.98382083816666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e768335b8d75b%3A0xc903220e439825f6!2z5bSH5piO5paw6a6u54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752172929665!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "新鮮牛肉湯",
+        "address": "台南市北區開元路323號",
+        "opening_hours": {
+            "mon": ["04:00-10:30"],
+            "tue": [],
+            "wed": ["04:00-10:30"],
+            "thu": ["04:00-10:30"],
+            "fri": ["04:00-10:30"],
+            "sat": ["04:00-10:30"],
+            "sun": ["04:00-10:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14689.685540326616!2d120.21288836977538!3d23.0082953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76ef58105f41%3A0xca554b03aed74855!2z5paw6a6u54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752173015777!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "體育場樺哥土產牛肉",
+        "address": "台南市南區體育路89號",
+        "opening_hours": {
+            "mon": ["02:10-09:00"],
+            "tue": [],
+            "wed": ["02:10-09:00"],
+            "thu": ["02:10-09:00"],
+            "fri": ["02:10-09:00"],
+            "sat": ["02:10-09:00"],
+            "sun": ["02:10-09:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10389.446808761719!2d120.20007545189492!3d22.978783689666916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e75443dc16d2b%3A0x1bd98889390439f!2z6auU6IKy5aC05qi65ZOl5Zyf55Si54mb6IKJIOOAjOS4jeiAkOS5heWAmeaOkumaiiDorJvmsYLmnI3li5nlj4pDUOWAvOiAheWLv-S-huOAjQ!5e0!3m2!1szh-TW!2stw!4v1752173170228!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "長榮牛肉湯",
+        "address": "台南市東區長榮路二段88號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["05:30-12:30"],
+            "wed": ["05:30-12:30"],
+            "thu": ["05:30-12:30"],
+            "fri": ["05:30-12:30"],
+            "sat": ["05:30-12:30"],
+            "sun": []
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12354.680248741204!2d120.21100770048058!3d22.98451160529033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7690f52a0a0d%3A0xde00a329aeba145d!2z6ZW35qau54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752173494119!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "永福牛肉湯",
+        "address": "台南市東區府連東路25號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["05:30-13:00"],
+            "wed": ["05:30-13:00"],
+            "thu": ["05:30-13:00"],
+            "fri": ["05:30-13:00"],
+            "sat": ["05:30-13:00"],
+            "sun": ["05:30-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12354.680248741204!2d120.21100770048058!3d22.98451160529033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e769b2585e657%3A0x9c7fc7c71831045a!2z5rC456aP54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752173554165!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "牛哞王 溫體牛肉湯",
+        "address": "台南市南區金華路二段152號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["12:00-14:30,16:30-21:00"],
+            "wed": ["12:00-14:30,16:30-21:00"],
+            "thu": [],
+            "fri": ["12:00-14:30,16:30-21:00"],
+            "sat": ["12:00-14:30,16:30-21:00"],
+            "sun": ["12:00-14:30,16:30-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12354.91918904695!2d120.18537884715373!3d22.98189897204127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e756d8cbe7449%3A0x94eb2b7932ebe4c6!2z54mb5ZOe546LIOa6q-mrlOeJm-iCiea5rw!5e0!3m2!1szh-TW!2stw!4v1752173345831!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿億牛肉湯",
+        "address": "台南市中西區民權路一段1-3號",
+        "opening_hours": {
+            "mon": ["18:00-01:00"],
+            "tue": ["18:00-01:00"],
+            "wed": ["18:00-01:00"],
+            "thu": ["18:00-01:00"],
+            "fri": ["18:00-01:00"],
+            "sat": ["18:00-01:00"],
+            "sun": ["18:00-01:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20777.7966464171!2d120.20531185055283!3d22.98591594718631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7685fb5b54c5%3A0xd1c3990f2acdbfa6!2z6Zi_5YSE54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752173698980!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿家牛肉湯&火鍋",
+        "address": "台南市南區中華南路一段78號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["06:00-23:30"],
+            "wed": ["06:00-23:30"],
+            "thu": ["06:00-23:30"],
+            "fri": ["06:00-23:30"],
+            "sat": ["06:00-23:30"],
+            "sun": ["06:00-23:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17473.40195876791!2d120.20308269294493!3d22.974879690084364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7595439ff515%3A0xc7994fecd7a130c2!2z6Zi_5a6254mb6IKJ5rmvJueBq-mNiw!5e0!3m2!1szh-TW!2stw!4v1752173882205!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "文品牛肉湯",
+        "address": "台南市中西區保安路69號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["17:00-02:00"],
+            "wed": ["17:00-02:00"],
+            "thu": ["17:00-02:00"],
+            "fri": ["17:00-02:00"],
+            "sat": ["17:00-02:00"],
+            "sun": ["17:00-02:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7345.822115142265!2d120.19234473636564!3d22.99029790002238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77e00aeb5fa5%3A0xa4395912fe64e853!2z5paH5ZOB54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752173987307!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "民族路牛肉湯",
+        "address": "台南市中西區民族路三段137號",
+        "opening_hours": {
+            "mon": ["17:00-02:00"],
+            "tue": ["17:00-02:00"],
+            "wed": ["17:00-02:00"],
+            "thu": ["17:00-02:00"],
+            "fri": ["17:00-02:00"],
+            "sat": ["17:00-02:00"],
+            "sun": ["17:00-02:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7345.2332809664285!2d120.192938270233!3d23.00112048845326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77c4aeea3c79%3A0xe2017f015873771a!2z5rCR5peP6Lev54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752174063832!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "小董牛肉湯爐",
+        "address": "台南市北區小東路157號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["17:00-03:00"],
+            "wed": ["17:00-03:00"],
+            "thu": ["17:00-03:00"],
+            "fri": ["17:00-03:00"],
+            "sat": ["17:00-03:00"],
+            "sun": ["17:00-03:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10387.754647594063!2d120.22022763146869!3d23.000781058468522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e771c541a7b19%3A0x537d1558a848311d!2z5bCP6JGj54mb6IKJ5rmv54iQ!5e0!3m2!1szh-TW!2stw!4v1752174111695!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "杜牛肉湯",
+        "address": "台南市南區新興路164號",
+        "opening_hours": {
+            "mon": ["03:00-12:00"],
+            "tue": [],
+            "wed": ["03:00-12:00"],
+            "thu": ["03:00-12:15"],
+            "fri": ["03:00-12:15"],
+            "sat": ["03:00-12:15"],
+            "sun": ["03:00-12:15"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14692.998838523084!2d120.18553826977539!3d22.977843300000025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e75d769fbcddb%3A0xd88b0745cec0fc39!2z5p2c54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752174246800!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "杜牛肉湯（大成路口）",
+        "address": "台南市南區大成路二段2號",
+        "opening_hours": {
+            "mon": ["04:00-13:00"],
+            "tue": [],
+            "wed": ["04:00-13:00"],
+            "thu": ["04:00-13:00"],
+            "fri": ["04:00-13:00"],
+            "sat": ["04:00-13:00"],
+            "sun": ["04:00-13:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14693.304498968033!2d120.18861856977539!3d22.975032100000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e75d13a1e6d8b%3A0xb311275346fc3a7e!2z5p2c54mb6IKJ5rmv77yI5aSn5oiQ6Lev5Y-j77yJ!5e0!3m2!1szh-TW!2stw!4v1752174444698!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "台南牛肉湯-老田牛肉湯",
+        "address": "台南市東區崇明路361號",
+        "opening_hours": {
+            "mon": ["07:00-14:00,17:00-21:00"],
+            "tue": ["07:00-14:00,17:00-21:00"],
+            "wed": ["07:00-14:00,17:00-21:00"],
+            "thu": ["07:00-14:00,17:00-21:00"],
+            "fri": ["07:00-14:00,17:00-21:00"],
+            "sat": ["07:00-14:00,17:00-21:00"],
+            "sun": ["07:00-14:00,17:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10389.75495214064!2d120.21601393255196!3d22.97477581412687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7420e5cd6797%3A0xa2333560341e8973!2z5Y-w5Y2X54mb6IKJ5rmvLeiAgeeUsOeJm-iCiea5rw!5e0!3m2!1szh-TW!2stw!4v1752174729358!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "康了牛肉湯",
+        "address": "台南市中西區仁愛街29號",
+        "opening_hours": {
+            "mon": [],
+            "tue": ["11:00-20:00"],
+            "wed": ["11:00-20:00"],
+            "thu": ["11:00-20:00"],
+            "fri": ["11:00-20:00"],
+            "sat": ["11:00-20:00"],
+            "sun": ["11:00-20:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6176.811894679788!2d120.19536289525898!3d22.996059832562484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77da45d095bd%3A0x754bbc154b23c6fd!2z5bq35LqG54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752174349663!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "下港阿宏牛肉湯",
+        "address": "台南市安平區安平路392號",
+        "opening_hours": {
+            "mon": ["10:00-21:00"],
+            "tue": ["10:00-21:00"],
+            "wed": [],
+            "thu": ["10:00-21:00"],
+            "fri": ["10:00-21:00"],
+            "sat": ["10:00-21:00"],
+            "sun": ["10:00-21:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8735.214435529793!2d120.16938911606451!3d22.99786366699896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761191803565%3A0x8e4083a079a077e2!2z5LiL5riv6Zi_5a6P54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752175040131!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "阿堂牛肉專賣安平店",
+        "address": "台南市安平區安平路412號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["12:00-22:00"],
+            "thu": ["12:00-22:00"],
+            "fri": ["12:00-23:00"],
+            "sat": ["12:00-23:00"],
+            "sun": ["12:00-22:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12353.424384636111!2d120.16775830590842!3d22.99823892351228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e773769c6e4c3%3A0xca140ce42b85a341!2z6Zi_5aCC54mb6IKJ5bCI6LOj5a6J5bmz5bqX!5e0!3m2!1szh-TW!2stw!4v1752175152104!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "台灣牛土產牛肉湯",
+        "address": "台南市安平區安平路656號",
+        "opening_hours": {
+            "mon": ["03:30-16:30"],
+            "tue": ["03:30-16:30"],
+            "wed": ["03:30-16:30"],
+            "thu": ["03:30-16:30"],
+            "fri": ["03:30-16:30"],
+            "sat": ["03:30-16:30"],
+            "sun": ["03:30-16:30"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10387.858856065099!2d120.16241588894485!3d22.999426968023332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761b20e7fc1b%3A0xd57b6b74a4496231!2z5Y-w54Gj54mb5Zyf55Si54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752175276454!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+        "name": "金土產牛肉湯",
+        "address": "台南市安平區平生路85號",
+        "opening_hours": {
+            "mon": [],
+            "tue": [],
+            "wed": ["04:00-11:00"],
+            "thu": ["04:00-11:00"],
+            "fri": ["04:00-11:00"],
+            "sat": ["04:00-11:00"],
+            "sun": ["04:00-11:00"]
+        },
+"mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10387.779317440145!2d120.15844059819331!3d23.00046050398047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e761c78c09a83%3A0x6f74e04327cda2d0!2z6YeR5Zyf55Si54mb6IKJ5rmv!5e0!3m2!1szh-TW!2stw!4v1752175370986!5m2!1szh-TW!2stw\" width=\"100%\" height=\"200\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    }
+]
