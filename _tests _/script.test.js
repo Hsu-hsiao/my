@@ -1,3 +1,4 @@
+/*當下時段的營業狀態測試*/
 const { getOpeningStatusForCurrentView } = require('../script');
 
 describe('getOpeningStatusForCurrentView()', () => {
@@ -16,8 +17,8 @@ describe('getOpeningStatusForCurrentView()', () => {
   });
 
   it('應正確判斷 24 小時營業為營業中', () => {
-    jest.useFakeTimers().setSystemTime(new Date('2025-07-15T12:00:00')); // Tue
-    const result = getOpeningStatusForCurrentView(mockHours, "");
+    jest.useFakeTimers().setSystemTime(new Date('2025-07-22T12:00:00')); 
+    const result = getOpeningStatusForCurrentView(mockHours, "2");
     expect(result.open).toBe(true);
     expect(result.label).toBe("✅ 目前營業中");
     jest.useRealTimers();
